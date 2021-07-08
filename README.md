@@ -1,3 +1,4 @@
-# phantompulsestudios.github.io
+# Phantom Pulse Studios Website
 
-How the fuck do you add an embed description thing
+## Links
+- [Beta Content Home](https://phantompulsestudios.github.io/content/beta/index.html)
